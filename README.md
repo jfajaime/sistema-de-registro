@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes poner:
 
 ```ejemplo de etiqueta```
+
+Sistema de Registro 2
